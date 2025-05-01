@@ -17,3 +17,4 @@ exports.adduser = async(req,res,next)=>{
     })
   }
 }
+expor
